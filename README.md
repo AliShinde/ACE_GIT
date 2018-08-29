@@ -1,2 +1,2 @@
 # ACE_GIT
-Study purpose
+Study purpose tutorial
